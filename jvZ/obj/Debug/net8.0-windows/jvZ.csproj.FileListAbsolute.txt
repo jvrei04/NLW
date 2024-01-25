@@ -1,0 +1,17 @@
+C:\Users\jvZ\Desktop\jvz\jvZ\bin\Debug\net8.0-windows\jvZ.exe
+C:\Users\jvZ\Desktop\jvz\jvZ\bin\Debug\net8.0-windows\jvZ.deps.json
+C:\Users\jvZ\Desktop\jvz\jvZ\bin\Debug\net8.0-windows\jvZ.runtimeconfig.json
+C:\Users\jvZ\Desktop\jvz\jvZ\bin\Debug\net8.0-windows\jvZ.dll
+C:\Users\jvZ\Desktop\jvz\jvZ\bin\Debug\net8.0-windows\jvZ.pdb
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\jvZ.JanelaPrincipal.resources
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\jvZ.csproj.GenerateResource.cache
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\jvZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\jvZ.AssemblyInfoInputs.cache
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\jvZ.AssemblyInfo.cs
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\jvZ.csproj.CoreCompileInputs.cache
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\jvZ.dll
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\refint\jvZ.dll
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\jvZ.pdb
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\jvZ.genruntimeconfig.cache
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\ref\jvZ.dll
+C:\Users\jvZ\Desktop\jvz\jvZ\obj\Debug\net8.0-windows\jvZ.Properties.Resources.resources
